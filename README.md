@@ -15,6 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriieu)](https://github.com/anuraghazra/github-readme-stats)
 
-Sou Desenvolvedor Web Fullstack e estudante de Engenharia de Computação.
+Sou Desenvolvedor Web Fullstack e estudante de Engenharia de Computação, estou em busca de uma oportunidade como Desenvolvedor Júnior.
 
 [Currículo](https://docs.google.com/document/d/1y6tWkH1O3YpMjX9n8fPo4rweyz0ZFxHD/edit#heading=h.gjdgxs)
