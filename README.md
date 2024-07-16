@@ -5,8 +5,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gabrieu_J)
 [![Portifólio](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://josegabriel.vercel.app/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriieu&show_icons=true&theme=synthwave)
-
 
 ## TECNOLOGIAS
 
