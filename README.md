@@ -7,6 +7,6 @@
 
 ## TECNOLOGIAS
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,styledcomponents,nodejs,expressjs,c#,java,spring,postgresql,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,styledcomponents,nodejs,expressjs,cs,java,spring,postgresql,mysql)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriieu)](https://github.com/anuraghazra/github-readme-stats)
